@@ -8,7 +8,11 @@ package pboif2.pkg10119044.latihan3.input;
 import java.util.Scanner;
 /**
  *
- * @author Yohana Sri Rejeki
+ * @author 
+ * NAMA     : Yohana Sri Rejeki
+ * KELAS    : PBOIF2
+ * NIM      : 10119044
+ * Deskripsi Program : Program ini berfungsi untuk mmenampilkan data dari input yang dimasukkan oleh user
  */
 
 public class PBOIF210119044Latihan3Input {
